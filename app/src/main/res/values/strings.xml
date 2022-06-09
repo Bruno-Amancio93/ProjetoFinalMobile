@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">Projeto Final</string>
+
+    <!-- SubscriberFragment -->
+    <string name="subscriber_name_hint">Nome</string>
+    <string name="subscriber_email_hint">E-mail</string>
+    <string name="subscriber_button">Adicionar</string>
+    <string name="subscriber_title">Tela de Cadastro</string>
+    <string name="subscriber_inserted_successfully">O usuário foi inserido com sucesso!</string>
+    <string name="subscriber_error_to_insert">Ocorreu um erro ao inserir o usuário!</string>
+
+    <!-- SubscriberList -->
+    <string name="subscriberList_title">Usuários Adicionados</string>
+</resources>
